@@ -33,4 +33,8 @@
   <img height="180cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tqi-jtorres&show_icons=true&theme=github_dark&layout=compact&langs_count=6" />
 </a>
 
+<a href="https://github.com/tqi-jtorres?tab=repositories">
+  <img height="180cm" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tqi-jtorres&repo=github-readme-stats" />
+</a>
+
 <br/>

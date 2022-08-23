@@ -17,6 +17,7 @@
   <img aling="center" alt="Spring" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img aling="center" alt="Vue" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img aling="center" alt="Postgree" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img aling="center" alt="Terraform" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
   <img aling="center" alt="Kafka" height="45" src="files/icon_kafka.png"/>
   <img aling="center" alt="Linux" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img aling="center" alt="Git" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />

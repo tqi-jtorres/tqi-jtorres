@@ -28,10 +28,6 @@
 
 <br>
 <a href="https://github.com/tqi-jtorres?tab=repositories">
-  <img height="180cm" align="center" src="https://github-readme-stats.vercel.app/api?username=tqi-jtorres&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
+  <img height="180cm" aling="center" src="https://github-readme-stats.vercel.app/api?username=tqi-jtorres&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
 </a>
-<a href="https://github.com/tqi-jtorres?tab=repositories">
-  <img height="180cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tqi-jtorres&show_icons=true&theme=github_dark&layout=compact&langs_count=6" />
-</a>
-
 <br/>

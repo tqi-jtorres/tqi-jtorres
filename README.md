@@ -25,3 +25,13 @@
   <img aling="center" alt="Kubernetes" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
   <img aling="center" alt="Jenkins" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
 </div>
+
+<br>
+<a href="https://github.com/tqi-jtorres?tab=repositories">
+  <img height="180cm" align="center" src="https://github-readme-stats.vercel.app/api?username=tqi-jtorres&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/tqi-jtorres?tab=repositories">
+  <img height="180cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tqi-jtorres&show_icons=true&theme=github_dark&layout=compact&langs_count=6" />
+</a>
+
+<br/>
